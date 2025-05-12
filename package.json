@@ -1,6 +1,6 @@
 {
   "name": "ts-template",
-  "packageManager": "yarn@4.6.0",
+  "packageManager": "yarn@4.9.1",
   "scripts": {
     "start": "tsx src/index.ts",
     "build": "tsc",
